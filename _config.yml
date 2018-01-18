@@ -8,12 +8,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: kmossi # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: kmossi.jpg  # add your photo
 about-author: iOS Developer from Somewhere. Always hungry to keep learning. # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: kmossi # add your Github handle
-linkedin: # add your Linkedin handle
+linkedin: # add your Linkedin handle 
 email: kmossi@gmail.com
 
 # Disqus
