@@ -10,14 +10,14 @@ site-twitter: #if your site has a twitter account, enter it here
 author: kmossi # add your name
 author-img: kmossi.jpg  # add your photo
 about-author: iOS Developer from Somewhere. Always hungry to keep learning. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+#twitter: # add your Twitter handle
+#facebook: # add your Facebook handle
 github: kmossi # add your Github handle
-linkedin: # add your Linkedin handle 
+#linkedin: # add your Linkedin handle 
 email: kmossi@gmail.com
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier: kmossi # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
